@@ -16,6 +16,8 @@
 		9A7F752029A6364000F2E0E5 /* SimpsonBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7F751F29A6364000F2E0E5 /* SimpsonBookTests.swift */; };
 		9A7F752A29A6364000F2E0E5 /* SimpsonBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7F752929A6364000F2E0E5 /* SimpsonBookUITests.swift */; };
 		9A7F752C29A6364000F2E0E5 /* SimpsonBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7F752B29A6364000F2E0E5 /* SimpsonBookUITestsLaunchTests.swift */; };
+		9ACE21CC29A9008B005FAEA7 /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACE21CB29A9008B005FAEA7 /* Simpson.swift */; };
+		9AED2E5A29A7AC5D003F7D3D /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AED2E5929A7AC5D003F7D3D /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		9A7F752529A6364000F2E0E5 /* SimpsonBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpsonBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7F752929A6364000F2E0E5 /* SimpsonBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpsonBookUITests.swift; sourceTree = "<group>"; };
 		9A7F752B29A6364000F2E0E5 /* SimpsonBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpsonBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9ACE21CB29A9008B005FAEA7 /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
+		9AED2E5929A7AC5D003F7D3D /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				9A7F750829A6363F00F2E0E5 /* AppDelegate.swift */,
 				9A7F750A29A6363F00F2E0E5 /* SceneDelegate.swift */,
 				9A7F750C29A6363F00F2E0E5 /* ViewController.swift */,
+				9AED2E5929A7AC5D003F7D3D /* DetailsVC.swift */,
+				9ACE21CB29A9008B005FAEA7 /* Simpson.swift */,
 				9A7F750E29A6363F00F2E0E5 /* Main.storyboard */,
 				9A7F751129A6364000F2E0E5 /* Assets.xcassets */,
 				9A7F751329A6364000F2E0E5 /* LaunchScreen.storyboard */,
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A7F750D29A6363F00F2E0E5 /* ViewController.swift in Sources */,
+				9AED2E5A29A7AC5D003F7D3D /* DetailsVC.swift in Sources */,
 				9A7F750929A6363F00F2E0E5 /* AppDelegate.swift in Sources */,
 				9A7F750B29A6363F00F2E0E5 /* SceneDelegate.swift in Sources */,
+				9ACE21CC29A9008B005FAEA7 /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
